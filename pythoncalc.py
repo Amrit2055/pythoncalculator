@@ -213,6 +213,4 @@ width=w,height=h+1,
 command=Equalclicked)
 btnEqual.grid(column=3, row=6)
 
-	
-
 window.mainloop()
